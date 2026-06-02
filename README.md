@@ -223,6 +223,7 @@ g++ -o stack Lab3.cpp
 ## 🎯 Key Learning Objectives
 
 ### Data Structures Mastered
+Covers arrays, linked lists, stacks, BSTs, and graphs with full complexity analysis.
 - ✅ Arrays (sorted and unsorted)
 - ✅ Linked Lists
 - ✅ Stacks
@@ -268,23 +269,6 @@ g++ -o stack Lab3.cpp
 - Interactive testing modes
 - Validation of expected outputs
 
-## 🚀 Future Enhancements
-
-### Potential Improvements
-- [ ] Add unit testing framework
-- [ ] Implement additional graph algorithms (DFS, shortest path)
-- [ ] Add more sorting algorithms
-- [ ] Implement hash table data structure
-- [ ] Add GUI interfaces for interactive programs
-- [ ] Performance benchmarking and optimization
-
-### Advanced Features
-- [ ] Generic template implementations
-- [ ] Multi-threading support
-- [ ] Database integration for student management
-- [ ] Web-based calculator interface
-- [ ] Graph visualization tools
-
 ## 📝 Usage Examples
 
 ### Calculator Usage
@@ -326,11 +310,10 @@ cout << "Leaves: " << bst.LeafCount() << endl;
 
 ## 📄 License
 
-This project is created for educational purposes as part of CISC 2200 coursework. All code is original work by Maia Munich unless otherwise noted.
+Developed by Maia Munich. For questions, reach out at maia.munich@gmail.com
 
 ---
 
 **Last Updated:** December 2024  
 **Total Projects:** 7  
-**Lines of Code:** 2000+  
 **Documentation Coverage:** 100%

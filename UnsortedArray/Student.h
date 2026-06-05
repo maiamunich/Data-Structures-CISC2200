@@ -23,7 +23,7 @@ public:
 
 private:
 
-   string FIDN; //the format should be "A000
+   string FIDN; // Fordham ID Number, format "A00012345"
    string FN;
    string LN;
 

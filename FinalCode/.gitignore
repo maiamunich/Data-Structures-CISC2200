@@ -1,9 +1,8 @@
 final_project_test
 final_project_test.dSYM
 *.o
-Calculator.cpp
-Calculator.dSYM
 *.dSYM
 Calculator
+Calculator.dSYM
 MaiaMunich_FinalProject
 MaiaMunich_FinalProject.dSYM

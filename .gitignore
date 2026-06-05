@@ -1,3 +1,16 @@
+.DS_Store
+*.o
+*.dSYM
+*.exe
+.vscode/
+build/
+
+# Compiled lab binaries
 Lab1
+Lab2
+Lab3
+Lab4
+Lab5
 testUnsortedList
-Lab1.dSYM
+MaiaMunich_FinalProject
+calculator

@@ -9,7 +9,7 @@
 This repository contains implementations of various data structures and algorithms organized by topic:
 
 ```
-CISC2200/
+Data-Structures-CISC2200/
 ├── FinalCode/              # Advanced Calculator Project
 ├── DirectedWeightedGraph/  # Graph Data Structure
 ├── Tree/                   # Binary Search Tree Implementation
@@ -310,10 +310,9 @@ cout << "Leaves: " << bst.LeafCount() << endl;
 
 ## 📄 License
 
-Developed by Maia Munich. For questions, reach out at maia.munich@gmail.com
+MIT License — see [LICENSE](LICENSE). For questions, reach out at maia.munich@gmail.com
 
 ---
 
-**Last Updated:** December 2024  
-**Total Projects:** 7  
-**Documentation Coverage:** 100%
+**Last Updated:** June 2026  
+**Total Projects:** 7

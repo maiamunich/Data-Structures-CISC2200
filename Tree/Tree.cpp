@@ -19,11 +19,6 @@
  * - Tree Analysis: O(n) - examines all nodes
  *******************************************************************************/
 
-/********************************************************
- * File : Tree.cpp
- * Description : Impelementation file of Tree class
- ********************************************************/
-
 #include "Tree.h"
 #include <new>
 

@@ -308,10 +308,6 @@ cout << "Leaves: " << bst.LeafCount() << endl;
 - **C++ Reference Documentation** - cppreference.com
 - **Stack Overflow** - Community support and examples
 
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE). For questions, reach out at maia.munich@gmail.com
-
 ---
 
 **Last Updated:** June 2026  

@@ -310,5 +310,7 @@ cout << "Leaves: " << bst.LeafCount() << endl;
 
 ---
 
+For questions, reach out at maia.munich@gmail.com
+
 **Last Updated:** June 2026  
 **Total Projects:** 7
